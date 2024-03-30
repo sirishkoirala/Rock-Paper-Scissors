@@ -6,7 +6,7 @@
 console.log("--------->Rock Paper Seasor<-----------")
 console.log("'r' for Rock");
 console.log("'p' for Paper");
-console.log("'s' for Seasor");
+console.log("'s' for Scissors");
 let c = 8;
 let cpu = Math.floor(Math.random() * 3);
 let gameSet = ['r', 'p', 's'];
