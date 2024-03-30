@@ -1,3 +1,8 @@
+
+// RUN THIS CODE IN YOUR BROWSER'S CONSOLE
+
+
+
 console.log("--------->Rock Paper Seasor<-----------")
 console.log("'r' for Rock");
 console.log("'p' for Paper");
