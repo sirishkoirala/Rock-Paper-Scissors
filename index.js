@@ -3,7 +3,7 @@
 
 
 
-console.log("--------->Rock Paper Seasor<-----------")
+console.log("--------->Rock Paper Scissors<-----------")
 console.log("'r' for Rock");
 console.log("'p' for Paper");
 console.log("'s' for Scissors");
